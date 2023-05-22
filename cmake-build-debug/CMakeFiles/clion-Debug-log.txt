@@ -1,0 +1,8 @@
+/home/king/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/king/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/ninja/linux/x64/ninja -G Ninja -S /home/king/Games/Timber -B /home/king/Games/Timber/cmake-build-debug
+-- Found SFML 2.5.1 in /usr/local/sfml/lib/cmake/SFML
+-- SFML_INCLUDE_DIR: /usr/local/sfml/include
+-- SFML_LIBRARIES: 
+-- SFML_VERSION: 2.5.1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/king/Games/Timber/cmake-build-debug

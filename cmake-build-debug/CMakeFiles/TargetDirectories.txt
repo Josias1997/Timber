@@ -1,0 +1,3 @@
+/home/king/Games/Timber/cmake-build-debug/CMakeFiles/Timber.dir
+/home/king/Games/Timber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/king/Games/Timber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
